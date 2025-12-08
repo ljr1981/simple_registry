@@ -3,3 +3,5 @@ EIFGENs/
 *.dll
 *.obj
 *.lib
+*.log
+*.rc
