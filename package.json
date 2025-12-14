@@ -1,0 +1,9 @@
+{
+  "name": "simple_registry",
+  "version": "0.1.0",
+  "description": "Simple Registry Library - SCOOP-compatible Win32 registry access",
+  "author": "Larry Rix",
+  "license": "MIT",
+  "category": "platform",
+  "keywords": ["registry", "windows", "settings"]
+}
