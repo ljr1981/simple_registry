@@ -16,8 +16,8 @@
 			<concurrency support="scoop" use="thread"/>
 			<void_safety support="all"/>
 		</capability>
-		<external_include location="$(SIMPLE_REGISTRY)\Clib"/>
-		<external_object location="$(SIMPLE_REGISTRY)\Clib\simple_registry.obj">
+		<external_include location="$(SIMPLE_EIFFEL)/simple_registry/Clib"/>
+		<external_object location="$(SIMPLE_EIFFEL)/simple_registry/Clib/simple_registry.obj">
 			<condition>
 				<platform value="windows"/>
 			</condition>
